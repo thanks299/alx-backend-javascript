@@ -1,1 +1,1 @@
-this is my backend javascript readme file
+this is my javascript ES6 readme
